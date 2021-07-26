@@ -2,10 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="fdc3539a-b723-407a-bcb4-b37b08b786a7" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/clientStyles.css" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/clinic.svg" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/index.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/lab.svg" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -35,7 +32,7 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1627309096956</updated>
-      <workItem from="1627309118490" duration="43000" />
+      <workItem from="1627309118490" duration="240000" />
     </task>
     <servers />
   </component>
