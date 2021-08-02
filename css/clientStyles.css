@@ -1,9 +1,10 @@
 .wrapper {
     margin: 0 auto;
     width: 375px;
-    height: 528px;
+    min-height: 528px;
     position: relative;
     background: #FFFFFF;
+    padding-bottom: 15px;
 }
 
 .header {
@@ -80,22 +81,23 @@
     width: 100%;
 }
 
-.main-info{
+.main-info {
     position: relative;
     margin-top: 40px;
     margin-left: auto;
     margin-right: auto;
     width: 345px;
-    height: 100px;
+    min-height: 100px;
     font-family: Montserrat;
     font-style: normal;
     font-weight: normal;
     font-size: 14px;
     line-height: 24px;
     color: #000000;
+    word-wrap: break-word;
 }
 
-.bold-data-name{
+.bold-data-name {
     font-weight: bold;
     margin-top: 8px;
 }
